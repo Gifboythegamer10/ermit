@@ -11,7 +11,7 @@ It's going to have a proper UI, designed by me, and a proper sharing hub, made b
 We want to be able to release Ermit to the world someday, but software development (and buying Raspberry Pis for an Ermit TV maybe??) won't come freely, and so that's where
 you come in!
 
-You can sponsor this small project by clicking the sponsor button on the project page- but contributions and tips are free! Do what you can do make this
+You can help this small project by doing what you can do make this
 thing better for all of us!
 Contribute in the wiki! Highlight some issues! Join the discord! Et cetera!!
 <h3>
