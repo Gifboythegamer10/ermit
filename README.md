@@ -29,6 +29,7 @@ Who knows? It'll be awesome!!
 </h3>
 
 You can learn more on the wiki, or ask us at thenative.com+ermit@gmail.com! :)
+In the future you'll be able to learn stuff on the github site: https://gifboythegamer10.github.io/ermit/
 
 (For a limited time as well, you can help design the logo! Email us your logo idea and we'll choose the one that fits best!)
 <h6>
