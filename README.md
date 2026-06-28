@@ -32,16 +32,7 @@ You can learn more on the wiki, or ask us at thenative.com+ermit@gmail.com! :)
 
 In the future you'll be able to learn stuff on the github site: https://gifboythegamer10.github.io/ermit/
 
-(For a limited time as well, you can help design the logo! Email us your logo idea and we'll choose the one that fits best!)
-<h6>
-  LOGO REQUIREMENTS:
-</h6>
-
-- Must contain the word Ermit
-
-- Must be blue, purple or pink
-
-- Not too visually complex
+<img width="909" height="629" alt="image" src="https://github.com/user-attachments/assets/c0f59356-380a-464d-aa40-42a551f9b791" />
 
 Cheers,
 
